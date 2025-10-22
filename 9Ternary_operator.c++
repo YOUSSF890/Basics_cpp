@@ -1,7 +1,11 @@
 #include <iostream>
+
 using namespace std;
 
 /*
+
+    std ==name==> the standard namespace
+    
     -control Foll
     --Ternary operator
 
