@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+    
     array<int ,5> nums = {5,9,66,50,1};
     cout << nums[0] << "\n"; // 5
     cout << nums[1] << "\n"; // 9
